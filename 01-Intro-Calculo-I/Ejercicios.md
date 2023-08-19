@@ -2,22 +2,22 @@
 **1)** Responde para cada número con N, E, Re, Ra o I según sea Naturales, Enteros, Reales,
 Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -> R: N.
 
-    a- 198
-    b- 4
-    c- -3.1
-    d- -1/4
-    e- 10.0
-    f- 2*e
-    g- -123.0004
+    a- 198 N
+    b- 4    N
+    c- -3.1 Re
+    d- -1/4  Ra
+    e- 10.0  Re
+    f- 2*e   Re
+    g- -123.0004 Re
 
 
 **2)** Calcula los siguientes porcentajes y y redondea la respuesta a su PRIMER número decimal
 
-    a- 30% de 2000
-    b- 2000% de 30
-    c- 10% de 150
-    d- 25.5% de 27
-    e- 25.5% de 0.9
+    a- 30% de 2000 =600
+    b- 2000% de 30 =600
+    c- 10% de 150  =15
+    d- 25.5% de 27 =6.9
+    e- 25.5% de 0.9=0.2
 
 **3)** Calcula la relación porcentual entre los siguientes números y redondea la respuesta a su PRIMER número decimal. Ej: X% de 20 es 2 -> R: 10
 
@@ -33,7 +33,16 @@ un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la re
     a- De qué porcentaje fue el descuento con la tarjeta de fidelidad?
     b- Cuánto dinero me ahorré por la promo y cuanto por la tarjeta de fidelidad?
 
+a-R De qué porcentaje fue el descuento con la tarjeta de fidelidad?
+Porcentaje de descuento con la tarjeta de fidelidad = (Descuento con la tarjeta de fidelidad / Valor después de la promo) * 100
+Porcentaje de descuento con la tarjeta de fidelidad = (49 / 245) * 100 ≈ 20.0
 
+b-R Cuánto dinero me ahorré por la promo y cuanto por la tarjeta de fidelidad?
+Ahorro por la promo = Descuento de la promo = 105$
+Ahorro por la tarjeta de fidelidad = Descuento con la tarjeta de fidelidad = 49$
+Redondeando a la primera decimal:
+a- El descuento con la tarjeta de fidelidad fue aproximadamente del 20.0%.
+b- Te ahorraste 105$ por la promo y 49$ por la tarjeta de fidelidad.
 **5)** Para cada medida en grados a continuación, responde con la letra que corresponde al ángulo de la figura.
 
 <img  src='./figuras/EX_5.png' height='270px'>
@@ -55,11 +64,16 @@ menor (redondea la respuesta a su PRIMER número decimal):
     b- Cuál es su coseno?
     c- Cuál es su tangente?
 
+
+a- El seno del ángulo menor es  0.6.
+b- El coseno del ángulo menor es  0.8.
+c- La tangente del ángulo menor es  0.7.
 Usando las funciones inversas en la calculadora (o bien en internet) arccos, arcsin y/o arctan, responder:
 
     d- Cuántos grados mide el menor de los dos ángulos agudos?
     e- Y el mayor?
-
+d- El menor de los dos ángulos agudos mide  34.99 grados.
+e- El mayor de los dos ángulos agudos mide  29.74 grados.
 **7)** Elige la opción correcta para cada caso.
 
     a- 0 = 
@@ -74,19 +88,26 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
     d- 0 =
         i- cos(180)
         ii- tg(180)
-
+Las respuestas correctas son:
+a- i
+b- i
+c- i
+d- ii
 **8)** Responde V o F.
 
     a- log(3+4) = log(7)
     b- log(20) = log(10)+log(10)
     c- 2*log(5) = log(25)
     d- log(24) - 3*log(2) = log(3)
-
+a- Verdadero
+b- Falso
+c- Verdadero
+d- Verdadero
 **9)** Para cada gráfica, responde si V o F "es función":
 
 <img  src='./figuras/EX_9.png' height='270px'>
 <img  src='./figuras/EX_9b.png' height='150px'>
-
+Respuesta: Falso (F)
 
 **10)** Para cada tabla, elige la función correspondiente.
 
@@ -110,7 +131,9 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
         ii- f(x)= x/2 + 1
         iii- f(x)= 0.5 * x
         iv- f(x)= 0.3 * x + 2
-
+    Tabla A: i- f(x)=4x+1f(x)=4x+1
+    Tabla B: iv- f(x)=x2f(x)=x2
+    Tabla C: i- f(x)=x/3f(x)=x/3
 **11)** Sobre las funciones del ejercicio anterior, responde V o F.
 
     -A  
@@ -127,7 +150,31 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
         - pendiente = 0.5
         - ordenada al origen = 1
         - no es una recta
-
+    Pendiente = 4: V
+    Ordenada al origen = 2: F
+    No es una recta: F
 **12)** Calcula la pendiente y ordenada al origen de la siguiente recta:
 
 <img  src='./figuras/EX_12.png' height='270px'>
+Puntos en la gráfica: A(2,−1)A(2,−1) y B(5,2)B(5,2)
+
+La fórmula de la pendiente (mm) es:
+m=y2−y1x2−x1m=x2​−x1​y2​−y1​​
+
+La fórmula de la ordenada al origen (bb) es:
+b=y−mxb=y−mx
+
+Vamos a calcular la pendiente:
+m=2−(−1)5−2=33=1m=5−22−(−1)​=33​=1
+
+Ahora vamos a calcular la ordenada al origen para el punto A(2,−1)A(2,−1):
+b=−1−(1⋅2)=−3b=−1−(1⋅2)=−3
+
+Por lo tanto, la ecuación de la recta es y=x−3y=x−3.
+
+En resumen:
+
+    Pendiente (mm) = 1
+    Ordenada al origen (bb) = -3
+    Ecuación de la recta: y=x−3y=x−3
+
